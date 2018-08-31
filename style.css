@@ -28,6 +28,6 @@ button {
 }
 
 button.active {
-    background-color: purple;
+    background-color: #551f75;
     color: white;
 }
